@@ -17,4 +17,4 @@ To reduce redundant data, Mobile Error Log Analyzer gets those same logs from co
 2. Click on Analyze to filter shown data.
 3. Copy entire text or Click on Save to store filter data.
 
-For simplicity converted python file into an application. [Image To Text Converter.7z](https://github.com/KarthikBH/Image_To_Text_Converter/releases/download/1.1/Image.To.Text.Converter.7z)
+For simplicity converted python file into an application. [Mobile Error Log Analyzer.7z](https://github.com/KarthikBH/Mobile_Error_Log_Analyzer/releases/download/0.01/Mobile.Error.Log.Analyzer.7z)
