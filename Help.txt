@@ -1,0 +1,16 @@
+ABOUT:
+Android Debug Bridge (ADB) gathers huge un-neceesary amount of data during logging which results in a large text file. 
+To reduce redundant data, Mobile Error Log Analyzer gets those same logs from connected device and filters them in an effictive way that does not remove any useful information.
+
+How TO:
+1. Connect an Android device and enable USB Debugging.
+2. Go to Options -> New. (Not required if first time)
+3. Click on Start.
+4. Reproduce issue in connected device and then immediately click on Stop.
+5. Click on Analyze to filter shown data.
+6. Copy entire text or Click on Save to store filter data.
+
+HOW TO IF ALREADY ADB LOGS ARE COLLECTED:
+1. Go to Options -> Open and select that file.
+2. Click on Analyze to filter shown data.
+3. Copy entire text or Click on Save to store filter data.
